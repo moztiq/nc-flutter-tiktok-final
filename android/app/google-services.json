@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020064149620",
+    "project_id": "moz-nc-tiktok-final",
+    "storage_bucket": "moz-nc-tiktok-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020064149620:android:7bcdd6679d9ebdba16a121",
+        "android_client_info": {
+          "package_name": "com.example.nc_flutter_tiktok_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbe4BSLjYmciYTVTtfdL1rpPZ6-ItlzN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
